@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/OtreeSamples.iml" filepath="$PROJECT_DIR$/.idea/OtreeSamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../OtreeSsw2/.idea/OtreeSsw2.iml" filepath="$PROJECT_DIR$/../OtreeSsw2/.idea/OtreeSsw2.iml" />
+    </modules>
+  </component>
+</project>
